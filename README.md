@@ -2,4 +2,4 @@ This is a google login phishing site made to grab the user's email and password.
 
 Please don't use this for malicious purposes, phishing is against the law, and should not be used to steal anyone's info. use this code for educational purposes only!
 
-thank you.
+Thank you.
